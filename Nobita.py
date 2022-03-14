@@ -1302,11 +1302,11 @@ async def spam(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "☠️♈️"
+        text = "𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃 💫"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"☠️ 𝙁𝙐𝘾𝙆𝙄𝙉𝙂 𝙎𝙋𝙀𝙀𝘿 !\n`{ms}` 𝗺𝘀\n👅𝙎𝙀𝙓𝙔 𝙭 𝙎𝙋𝘼𝙈\n ")
+        await event.edit(f"🔥𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃 !\n`{ms}` 𝗺𝘀\n𝐌𝐀𝐇𝐀𝐊𝐀𝐋_𝐗𝐃_𝐒𝐏𝐀𝐌 👹🔥\n ")
 
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.restart"))
 @ydk.on(events.NewMessage(incoming=True, pattern=r"\.restart"))
