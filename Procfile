@@ -1,1 +1,1 @@
-worker: python3 Sexy.py
+worker: python3 Nobita.py
