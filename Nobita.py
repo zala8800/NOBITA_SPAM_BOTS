@@ -142,7 +142,7 @@ async def start_aries():
             await idk.start()
             botme = await idk.get_me()
             await idk(functions.channels.JoinChannelRequest(channel="@mahakalspamcontrolroom"))
-            await idk(functions.channels.JoinChannelRequest(channel="@mahakalspamcontrolroom))
+            await idk(functions.channels.JoinChannelRequest(channel="@mahakalspamcontrolroom"))
             await idk(functions.channels.JoinChannelRequest(channel="@mahakalspamcontrolroom"))
             await idk(functions.channels.JoinChannelRequest(channel="@mahakalspamcontrolroom"))
             await idk(functions.channels.JoinChannelRequest(channel="@mahakalspamcontrolroom"))
