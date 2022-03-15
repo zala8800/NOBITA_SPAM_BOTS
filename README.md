@@ -7,7 +7,7 @@
 </p> 
 
 # THE FASTEST SPAM BOT 🤞🤞 
-# DEPLOY ON 10 ACCOUNTS AT ONE TIME 🔥🔥
+
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
